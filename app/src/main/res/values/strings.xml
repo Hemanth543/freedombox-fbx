@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FreedomBox</string>
+    <string name="communication">Talk</string>
+    <string name="library">Library</string>
+    <string name="internet">Internet</string>
+    <string name="video">Video</string>
+    <string name="audio">Audio</string>
+    <string name="napanta">Naa Panta</string>
+    <string name="plantix">Plantix</string>
+</resources>

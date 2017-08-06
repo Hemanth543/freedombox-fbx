@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ఫ్రీడంబాక్స్</string>
+    <string name="communication">మాటలు</string>
+    <string name="library">గ్రంధాలయం</string>
+    <string name="internet">అంతర్జాలం</string>
+    <string name="video">చలనచిత్రాలు</string>
+    <string name="audio">పాటలు</string>
+    <string name="napanta">నా పంట</string>
+    <string name="plantix">ప్లాంటిక్స్</string>
+</resources>

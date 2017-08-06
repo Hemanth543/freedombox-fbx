@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/hackerbox/Documents/android-app-master-b68dfefd36c46c8991925a043562a364b036b923/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="68eac283b8d4d72080c2c0dabf2718103c40ca68">
+        <dex dex="/home/hackerbox/Documents/android-app-master-b68dfefd36c46c8991925a043562a364b036b923/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9a62fd70d33d53c92ca1c1a84a7c08a344c92249/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/hackerbox/Documents/android-app-master-b68dfefd36c46c8991925a043562a364b036b923/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/hackerbox/Documents/android-app-master-b68dfefd36c46c8991925a043562a364b036b923/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d5997f1493096506a2fcc6ef8f4148d52f05bfaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hackerbox/.android/build-cache/78d209ebf7efd40cc07b47cfdad5febb851f7fe7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/hackerbox/Documents/android-app-master-b68dfefd36c46c8991925a043562a364b036b923/app/build/intermediates/pre-dexed/debug/classes_5bf231e391c99759b27d23a07a54da60b21954c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hackerbox/.android/build-cache/a89e19666dd7e1bbeb4df6de59d48f1ccd7a96c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/hackerbox/Documents/android-app-master-b68dfefd36c46c8991925a043562a364b036b923/app/build/intermediates/pre-dexed/debug/classes_0822e8040001dfa40b10b3668e06ec980cfd8566.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hackerbox/.android/build-cache/e69f1769f18c4ecadc79d30861b6e2f196ef1b76/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/hackerbox/Documents/android-app-master-b68dfefd36c46c8991925a043562a364b036b923/app/build/intermediates/pre-dexed/debug/classes_ce4157e5d6305e145507ddabf7f33edcbef0766f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hackerbox/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.3/e51ebc59da5103a2052859e89682c7f9c3456298/kotlin-stdlib-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e51ebc59da5103a2052859e89682c7f9c3456298">
+        <dex dex="/home/hackerbox/Documents/android-app-master-b68dfefd36c46c8991925a043562a364b036b923/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.1.3_9989f2b97c6066c2b507f02e14f02f84089dab09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hackerbox/.android/build-cache/79e7e3f546d0711e0fe1be7b7989967ba96186ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/hackerbox/Documents/android-app-master-b68dfefd36c46c8991925a043562a364b036b923/app/build/intermediates/pre-dexed/debug/classes_d633ef12f462abda65db15e6490c9f30d0ea3a92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hackerbox/.android/build-cache/5066cf4c29a1ec194853329235437d17bd08b7fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/hackerbox/Documents/android-app-master-b68dfefd36c46c8991925a043562a364b036b923/app/build/intermediates/pre-dexed/debug/classes_3d067bfb1f248436f847f0c2e80dd50db36e1767.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hackerbox/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/home/hackerbox/Documents/android-app-master-b68dfefd36c46c8991925a043562a364b036b923/app/build/intermediates/pre-dexed/debug/annotations-13.0_2c3ecd441c8fc18dff716df9e36e8f4009ce549c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hackerbox/.android/build-cache/676aee4d48121a17a286e98f3fb5c685a3b580ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/hackerbox/Documents/android-app-master-b68dfefd36c46c8991925a043562a364b036b923/app/build/intermediates/pre-dexed/debug/classes_be6bedc1ad54b0247c0cf3acd84b2f704a529a17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hackerbox/.android/build-cache/9526ebad3eb2c3e95ed74ba7eba2d764aa2dc7f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/hackerbox/Documents/android-app-master-b68dfefd36c46c8991925a043562a364b036b923/app/build/intermediates/pre-dexed/debug/classes_11a8a4f7f3e1e8c714a006296e956f4b56d6a70d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hackerbox/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.3/ca54720041043baefa0946f7ab2326934cfefd7f/kotlin-stdlib-jre7-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ca54720041043baefa0946f7ab2326934cfefd7f">
+        <dex dex="/home/hackerbox/Documents/android-app-master-b68dfefd36c46c8991925a043562a364b036b923/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-jre7-1.1.3_3ea1ec8ff6b7897b580b00c886ee54050e62e4bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hackerbox/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/hackerbox/Documents/android-app-master-b68dfefd36c46c8991925a043562a364b036b923/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_a1c6b3c262dc4f53ba81045c49cba3e943d6618a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hackerbox/.android/build-cache/0c7167557dedb5ff224becc54eb33f98e7c022d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/hackerbox/Documents/android-app-master-b68dfefd36c46c8991925a043562a364b036b923/app/build/intermediates/pre-dexed/debug/classes_bf96a7423c33d117ac5101a5906829b6f41052ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/hackerbox/.android/build-cache/3bdfa9f1e2661aabeffa085759b16b45ac67d9b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/hackerbox/Documents/android-app-master-b68dfefd36c46c8991925a043562a364b036b923/app/build/intermediates/pre-dexed/debug/classes_ed9b91cf1ce63362fc0e41a8a54c4e9d4f7ae6f7.jar" />
+    </item>
+
+</items>
